@@ -1,0 +1,33 @@
+G04 ================== begin FILE IDENTIFICATION RECORD ==================*
+G04 Layout Name:  D:/Vishay/PCB/sic431/REF BOARD V4/SiC43x REF PCB.brd*
+G04 Film Name:    Outline*
+G04 File Format:  Gerber RS274X*
+G04 File Origin:  Cadence Allegro 17.2-S002*
+G04 Origin Date:  Wed Nov 29 17:49:48 2017*
+G04 *
+G04 Layer:  MANUFACTURING/NCLEGEND-1-4*
+G04 Layer:  BOARD GEOMETRY/OUTLINE*
+G04 *
+G04 Offset:    (0.000 0.000)*
+G04 Mirror:    No*
+G04 Mode:      Positive*
+G04 Rotation:  0*
+G04 FullContactRelief:  No*
+G04 UndefLineWidth:     2.000*
+G04 ================== end FILE IDENTIFICATION RECORD ====================*
+%FSLAX25Y25*MOIN*%
+%IR0*IPPOS*OFA0.00000B0.00000*MIA0B0*SFA1.00000B1.00000*%
+%ADD10C,.002*%
+G75*
+%LPD*%
+G75*
+G54D10*
+G01X-112700Y-97700D02*
+X87300D01*
+G01X-112700Y52300D02*
+Y-97700D01*
+G01X87300Y52300D02*
+X-112700D01*
+G01X87300Y-97700D02*
+Y52300D01*
+M02*

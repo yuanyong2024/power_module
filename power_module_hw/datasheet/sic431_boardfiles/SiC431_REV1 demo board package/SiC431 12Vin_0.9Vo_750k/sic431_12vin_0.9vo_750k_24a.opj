@@ -1,0 +1,27 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\sic431_12vin_0.9vo_750k_24a.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\sic431_12vin_0.9vo_750k_24a.dsn")
+      (Path "Design Resources" ".\sic431_12vin_0.9vo_750k_24a.dsn" "SCHEMATIC1")
+      (Select "Design Resources" ".\sic431_12vin_0.9vo_750k_24a.dsn"
+         "SCHEMATIC1" "SiC431_12Vin_0.9Vo"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 338"))
+      (Tab 0)))
+  (MPSSessionName "yli99"))
