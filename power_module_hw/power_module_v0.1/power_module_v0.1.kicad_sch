@@ -4503,7 +4503,7 @@
     (property "Value" "0.1uF" (at 76.835 149.225 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 78.4352 150.495 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 78.4352 150.495 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 77.47 146.685 0)
